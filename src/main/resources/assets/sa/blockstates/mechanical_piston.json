@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sa:block/mechanical_piston"
+    },
+    "facing=east": {
+      "model": "sa:block/mechanical_piston",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sa:block/mechanical_piston",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sa:block/mechanical_piston",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "xpReward": 1.0,
+    "cookingTime": 182,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:KreyniumOre"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:PolishedKreyniumIngot"
+    },
+    "name": "kreynium_ingot_r_2",
+    "namespace": "mod"
+  }
+}

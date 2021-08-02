@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "sa:block/distilation_chamber"
+    }
+  }
+}

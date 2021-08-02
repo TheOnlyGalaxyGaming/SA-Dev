@@ -1,0 +1,1108 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "RPG",
+      "type": "item",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rpg"
+    },
+    {
+      "name": "RPGTab",
+      "type": "tab",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rpg_tab"
+    },
+    {
+      "name": "HenryStickman",
+      "type": "painting",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "henry_stickman"
+    },
+    {
+      "name": "Lunk",
+      "type": "painting",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lunk"
+    },
+    {
+      "name": "Moris",
+      "type": "painting",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "moris"
+    },
+    {
+      "name": "KreyniumDust",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kreynium_dust"
+    },
+    {
+      "name": "KreyniumOre",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kreynium_ore"
+    },
+    {
+      "name": "PolishedKreyniumIngot",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_kreynium_ingot"
+    },
+    {
+      "name": "UnpolishedKreyniumIngot",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "unpolished_kreynium_ingot"
+    },
+    {
+      "name": "KreyniumIngotR1",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kreynium_ingot_r_1"
+    },
+    {
+      "name": "KreyniumIngotR2",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kreynium_ingot_r_2"
+    },
+    {
+      "name": "Brush",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brush"
+    },
+    {
+      "name": "KreyniumIngotR3",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kreynium_ingot_r_3"
+    },
+    {
+      "name": "BrushR",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brush_r"
+    },
+    {
+      "name": "RedstoneOrb",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redstone_orb"
+    },
+    {
+      "name": "RedStick",
+      "type": "item",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_stick"
+    },
+    {
+      "name": "RedstoneOrbR",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "redstone_orb_r"
+    },
+    {
+      "name": "RedStickR",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_stick_r"
+    },
+    {
+      "name": "KreyniumSword",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kreynium_sword"
+    },
+    {
+      "name": "KreyniumSwordR",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kreynium_sword_r"
+    },
+    {
+      "name": "ChickenSandwich",
+      "type": "food",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chicken_sandwich"
+    },
+    {
+      "name": "ChickenSandwich2",
+      "type": "food",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chicken_sandwich_2"
+    },
+    {
+      "name": "ChickenSandwich3",
+      "type": "food",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chicken_sandwich_3"
+    },
+    {
+      "name": "ChickenSandwich4",
+      "type": "food",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chicken_sandwich_4"
+    },
+    {
+      "name": "Lettuce",
+      "type": "food",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lettuce"
+    },
+    {
+      "name": "Tomato",
+      "type": "food",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tomato"
+    },
+    {
+      "name": "SlicedTomato",
+      "type": "food",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sliced_tomato"
+    },
+    {
+      "name": "TomatoSeeds",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tomato_seeds"
+    },
+    {
+      "name": "TomatoSeedsRightClickedOnBlock",
+      "type": "procedure",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tomato_seeds_right_clicked_on_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Knife",
+      "type": "tool",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "knife"
+    },
+    {
+      "name": "KnifeR",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "knife_r"
+    },
+    {
+      "name": "SlicedBread",
+      "type": "food",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sliced_bread"
+    },
+    {
+      "name": "SlicedBreadR",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sliced_bread_r"
+    },
+    {
+      "name": "SlicedTomatoR",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sliced_tomato_r"
+    },
+    {
+      "name": "CSR1",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "csr_1"
+    },
+    {
+      "name": "CSR2",
+      "type": "recipe",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "csr_2"
+    },
+    {
+      "name": "CSR3",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "csr_3"
+    },
+    {
+      "name": "CSR4",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "csr_4"
+    },
+    {
+      "name": "KreyniumArmor",
+      "type": "armor",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kreynium_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "KreyniumHemletR",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kreynium_hemlet_r"
+    },
+    {
+      "name": "KreyniumChestplateR",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kreynium_chestplate_r"
+    },
+    {
+      "name": "KreyniumLeggingsR",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kreynium_leggings_r"
+    },
+    {
+      "name": "KreyniumBootsR",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kreynium_boots_r"
+    },
+    {
+      "name": "TomatoSeedsTempR",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tomato_seeds_temp_r"
+    },
+    {
+      "name": "IronCasing",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_casing"
+    },
+    {
+      "name": "IronPanel",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_panel"
+    },
+    {
+      "name": "Hammer",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hammer"
+    },
+    {
+      "name": "HammerR",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hammer_r"
+    },
+    {
+      "name": "IronPanelR",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_panel_r"
+    },
+    {
+      "name": "IronCasingR",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_casing_r"
+    },
+    {
+      "name": "IronGear",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_gear"
+    },
+    {
+      "name": "IronGearR",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_gear_r"
+    },
+    {
+      "name": "Press",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "press"
+    },
+    {
+      "name": "PressGUI",
+      "type": "gui",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "press_gui"
+    },
+    {
+      "name": "PressR",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "press_r"
+    },
+    {
+      "name": "BlockofCheese",
+      "type": "food",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blockof_cheese"
+    },
+    {
+      "name": "Salt",
+      "type": "item",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "salt"
+    },
+    {
+      "name": "BOCR",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bocr"
+    },
+    {
+      "name": "SlicedCheese",
+      "type": "food",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sliced_cheese"
+    },
+    {
+      "name": "SlicedCheeseR",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sliced_cheese_r"
+    },
+    {
+      "name": "KreyniumPanel",
+      "type": "item",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kreynium_panel"
+    },
+    {
+      "name": "PressP",
+      "type": "procedure",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "press_p",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "IronInfusedStone",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_infused_stone"
+    },
+    {
+      "name": "IronInfusedStoneR",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_infused_stone_r"
+    },
+    {
+      "name": "MoltenIron",
+      "type": "item",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "molten_iron"
+    },
+    {
+      "name": "MoltenIronR",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "molten_iron_r"
+    },
+    {
+      "name": "SaltR",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "salt_r"
+    },
+    {
+      "name": "ChickenSandwich5",
+      "type": "food",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chicken_sandwich_5"
+    },
+    {
+      "name": "CSR5",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "csr_5"
+    },
+    {
+      "name": "ChickenSandwich6",
+      "type": "food",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chicken_sandwich_6"
+    },
+    {
+      "name": "CSR6",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "csr_6"
+    },
+    {
+      "name": "ChickenSandwich7",
+      "type": "food",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chicken_sandwich_7"
+    },
+    {
+      "name": "CSR7",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "csr_7"
+    },
+    {
+      "name": "ChickenSandwich8",
+      "type": "food",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chicken_sandwich_8"
+    },
+    {
+      "name": "CSR8",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "csr_8"
+    },
+    {
+      "name": "GiveSACommandExecuted",
+      "type": "procedure",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "give_sa_command_executed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GiveSA",
+      "type": "command",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "give_sa"
+    },
+    {
+      "name": "Kreynium",
+      "type": "achievement",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kreynium"
+    },
+    {
+      "name": "TimeToPolish",
+      "type": "achievement",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "time_to_polish"
+    },
+    {
+      "name": "PolishedKreynium",
+      "type": "achievement",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_kreynium"
+    },
+    {
+      "name": "MIron",
+      "type": "achievement",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "m_iron"
+    },
+    {
+      "name": "HammerA",
+      "type": "achievement",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hammer_a"
+    },
+    {
+      "name": "Gear",
+      "type": "achievement",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gear"
+    },
+    {
+      "name": "Panel",
+      "type": "achievement",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "panel"
+    },
+    {
+      "name": "IronInfusedStonee",
+      "type": "achievement",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_infused_stonee"
+    },
+    {
+      "name": "NowItsAWall",
+      "type": "achievement",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "now_its_a_wall"
+    },
+    {
+      "name": "AMysteriousOrb",
+      "type": "achievement",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "a_mysterious_orb"
+    },
+    {
+      "name": "RedWoodBiome",
+      "type": "biome",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_wood_biome"
+    },
+    {
+      "name": "RedWoodWood",
+      "type": "block",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_wood_wood"
+    },
+    {
+      "name": "RedWoodLog",
+      "type": "block",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_wood_log"
+    },
+    {
+      "name": "RedWoodPlanks",
+      "type": "block",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_wood_planks"
+    },
+    {
+      "name": "RedWoodLeaves",
+      "type": "block",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_wood_leaves"
+    },
+    {
+      "name": "RedWoodStairs",
+      "type": "block",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_wood_stairs"
+    },
+    {
+      "name": "RedWoodSlab",
+      "type": "block",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_wood_slab"
+    },
+    {
+      "name": "RedWoodFence",
+      "type": "block",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_wood_fence"
+    },
+    {
+      "name": "RedWoodFenceGate",
+      "type": "block",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_wood_fence_gate"
+    },
+    {
+      "name": "RedWoodItemsTag",
+      "type": "tag",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_wood_items_tag"
+    },
+    {
+      "name": "RedWoodWoodRecipe",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_wood_wood_recipe"
+    },
+    {
+      "name": "RedWoodPlanksRecipe",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_wood_planks_recipe"
+    },
+    {
+      "name": "RedWoodStairsRecipe",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_wood_stairs_recipe"
+    },
+    {
+      "name": "RedWoodSlabRecipe",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_wood_slab_recipe"
+    },
+    {
+      "name": "RedWoodFenceRecipe",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_wood_fence_recipe"
+    },
+    {
+      "name": "RedWoodFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_wood_fence_gate_recipe"
+    },
+    {
+      "name": "CheesePotion",
+      "type": "potion",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cheese_potion"
+    },
+    {
+      "name": "CheesePotionR",
+      "type": "recipe",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cheese_potion_r"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.rpg.press": "Press",
+      "item.rpg.kreynium_armor_boots": "Kreynium Boots",
+      "advancements.a_mysterious_orb.descr": "Craft A Redstone Orb",
+      "item.rpg.blockof_cheese": "Blockof Cheese",
+      "item.rpg.tomato_seeds": "Tomato Seeds",
+      "advancements.time_to_polish.descr": "Craft a Brush",
+      "item.rpg.kreynium_dust": "Kreynium Dust",
+      "advancements.a_mysterious_orb.title": "A Mysterious Orb",
+      "item.rpg.polished_kreynium_ingot": "Polished Kreynium Ingot",
+      "item.rpg.kreynium_armor_leggings": "Kreynium Leggings",
+      "biome.rpg.red_wood_biome": "Red Wood Biome",
+      "item.rpg.chicken_sandwich": "Chicken Sandwich",
+      "advancements.polished_kreynium.descr": "Polish a Kreynium Ingot",
+      "advancements.m_iron.title": "Molten Iron!",
+      "item.rpg.tomato": "Tomato",
+      "item.rpg.kreynium_armor_helmet": "Kreynium Helmet",
+      "item.rpg.kreynium_panel": "Kreynium Panel",
+      "advancements.time_to_polish.title": "Time To Polish",
+      "item.rpg.hammer": "Hammer",
+      "advancements.kreynium.descr": "Mine Kreynium Ore",
+      "advancements.hammer_a.descr": "Craft a Hammer",
+      "item.minecraft.tipped_arrow.effect.cheese_potion": "Arrow of Cheese Potion",
+      "advancements.now_its_a_wall.title": "Now It\u0027s A Wall",
+      "item.rpg.chicken_sandwich_6": "Chicken Sandwich",
+      "item.rpg.chicken_sandwich_7": "Chicken Sandwich",
+      "item.rpg.chicken_sandwich_8": "Chicken Sandwich",
+      "item.rpg.chicken_sandwich_2": "Chicken Sandwich",
+      "item.rpg.chicken_sandwich_3": "Chicken Sandwich",
+      "item.rpg.chicken_sandwich_4": "Chicken Sandwich",
+      "item.rpg.salt": "Salt",
+      "item.rpg.chicken_sandwich_5": "Chicken Sandwich",
+      "advancements.gear.title": "Iron Gear",
+      "block.rpg.red_wood_log": "Red Wood Log",
+      "item.minecraft.lingering_potion.effect.cheese_potion": "Lingering Cheese Potion",
+      "advancements.iron_infused_stonee.descr": "Infuse an Iron Block With Stone",
+      "block.rpg.kreynium_ore": "Kreynium Ore",
+      "block.rpg.red_wood_fence_gate": "Red Wood Fence Gate",
+      "item.rpg.red_stick": "Red Stick",
+      "item.rpg.redstone_orb": "Redstone Orb",
+      "block.rpg.red_wood_slab": "Red Wood Slab",
+      "block.rpg.iron_casing": "Iron Casing",
+      "advancements.gear.descr": "Craft an Iron Gear",
+      "effect.cheese_potion": "Cheesey",
+      "advancements.panel.descr": "Craft an Iron Panel",
+      "block.rpg.iron_infused_stone": "Iron Infused Stone",
+      "advancements.m_iron.descr": "Smelt an Iron Ingot",
+      "item.rpg.unpolished_kreynium_ingot": "Unpolished Kreynium Ingot",
+      "item.rpg.sliced_cheese": "Sliced Cheese",
+      "advancements.panel.title": "Not Quite a Wall",
+      "block.rpg.red_wood_wood": "Red Wood",
+      "advancements.iron_infused_stonee.title": "Iron Infused Stone",
+      "item.minecraft.potion.effect.cheese_potion": "Cheese Potion",
+      "item.rpg.lettuce": "Lettuce",
+      "block.rpg.red_wood_fence": "Red Wood Fence",
+      "item.rpg.iron_panel": "Iron Panel",
+      "advancements.kreynium.title": "Kreynium Dust!",
+      "advancements.now_its_a_wall.descr": "Craft Some Iron Casing",
+      "item.rpg.kreynium_sword": "Kreynium Sword",
+      "block.rpg.red_wood_planks": "Red Wood Planks",
+      "item.minecraft.splash_potion.effect.cheese_potion": "Splash Cheese Potion",
+      "item.rpg.sliced_bread": "Sliced Bread",
+      "advancements.hammer_a.title": "Hammer Time!",
+      "item.rpg.brush": "Brush",
+      "block.rpg.red_wood_leaves": "Red Wood Leaves",
+      "item.rpg.kreynium_armor_chestplate": "Kreynium Chestplate",
+      "itemGroup.tabrpg_tab": "Simply Additions",
+      "item.rpg.knife": "Knife",
+      "item.rpg.rpg": "Simply Additions",
+      "block.rpg.red_wood_stairs": "Red Wood Stairs",
+      "item.rpg.iron_gear": "Iron Gear",
+      "item.rpg.sliced_tomato": "Sliced Tomato",
+      "item.rpg.molten_iron": "Molten Iron",
+      "advancements.polished_kreynium.title": "Polished Kreynium"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "rpg",
+    "modName": "RPG",
+    "version": "1.0.0",
+    "author": "trene, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.rpg",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100103117
+}

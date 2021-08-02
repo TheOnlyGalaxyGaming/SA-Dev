@@ -1,0 +1,40 @@
+{
+  "display": {
+    "icon": {
+      "item": "sa:press"
+    },
+    "title": {
+      "translate": "advancements.press_a.title"
+    },
+    "description": {
+      "translate": "advancements.press_a.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "press_a": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "sa:press",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1,
+    "loot": [
+      "sa:prblt"
+    ]
+  },
+  "parent": "sa:iron_panel_a"
+}

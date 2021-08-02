@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sa:block/water_tank"
+    },
+    "facing=east": {
+      "model": "sa:block/water_tank",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sa:block/water_tank",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sa:block/water_tank",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "sa:block/water_tank",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "sa:block/water_tank",
+      "x": 90
+    }
+  }
+}

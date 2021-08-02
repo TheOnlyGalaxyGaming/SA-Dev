@@ -1,0 +1,26 @@
+{
+  "_fv": 18,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "slicedbread",
+    "customModelName": "Normal",
+    "name": "Sliced Bread",
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SAFood"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 1,
+    "saturation": 0.2,
+    "eatingSpeed": 10,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

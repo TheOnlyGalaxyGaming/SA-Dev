@@ -1,0 +1,12 @@
+{
+  "castle": {
+    "category": "record",
+    "subtitle": "subtitles.castle",
+    "sounds": [
+      {
+        "name": "sa:27-castle",
+        "stream": true
+      }
+    ]
+  }
+}

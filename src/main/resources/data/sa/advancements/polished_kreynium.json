@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "sa:polished_kreynium_ingot"
+    },
+    "title": {
+      "translate": "advancements.polished_kreynium.title"
+    },
+    "description": {
+      "translate": "advancements.polished_kreynium.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "polished_kreynium": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "sa:polished_kreynium_ingot",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "sa:brush_a"
+}

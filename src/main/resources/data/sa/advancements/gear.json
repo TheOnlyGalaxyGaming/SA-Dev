@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "rpg:iron_gear"
+    },
+    "title": {
+      "translate": "advancements.gear.title"
+    },
+    "description": {
+      "translate": "advancements.gear.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "gear": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "rpg:iron_gear",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "rpg:hammer_a"
+}

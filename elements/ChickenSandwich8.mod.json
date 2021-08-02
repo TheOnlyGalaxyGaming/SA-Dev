@@ -1,0 +1,31 @@
+{
+  "_fv": 18,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "chickensandwich",
+    "customModelName": "Normal",
+    "name": "Chicken Sandwich",
+    "rarity": "COMMON",
+    "specialInfo": [
+      "With",
+      "Cheese",
+      "Lettuce",
+      "Tomato"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:SAFood"
+    },
+    "stackSize": 1,
+    "nutritionalValue": 9,
+    "saturation": 0.9,
+    "eatingSpeed": 42,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

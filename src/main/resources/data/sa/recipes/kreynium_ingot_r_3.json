@@ -1,0 +1,16 @@
+{
+  "group": "sa",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sa:brush"
+    },
+    {
+      "item": "sa:unpolished_kreynium_ingot"
+    }
+  ],
+  "result": {
+    "item": "sa:polished_kreynium_ingot",
+    "count": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "rpg:redstone_orb"
+    },
+    "title": {
+      "translate": "advancements.a_mysterious_orb.title"
+    },
+    "description": {
+      "translate": "advancements.a_mysterious_orb.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "a_mysterious_orb": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "rpg:redstone_orb",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "rpg:iron_infused_stonee"
+}

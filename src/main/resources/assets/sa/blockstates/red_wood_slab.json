@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "rpg:block/red_wood_slab"
+    },
+    "type=top": {
+      "model": "rpg:block/red_wood_slab_top"
+    },
+    "type=double": {
+      "model": "rpg:block/red_wood_slab_full"
+    }
+  }
+}

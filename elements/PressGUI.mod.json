@@ -1,0 +1,219 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #0",
+          "x": 149,
+          "y": 62
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 1,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #1",
+          "x": 170,
+          "y": 62
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 2,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #2",
+          "x": 159,
+          "y": 82
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 3,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #3",
+          "x": 267,
+          "y": 62
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Press",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Press",
+          "x": 132,
+          "y": 44
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 4,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #4",
+          "x": 267,
+          "y": 82
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "progressbarempty.png",
+          "use1Xscale": false,
+          "name": "progressbarempty.png",
+          "x": 196,
+          "y": 73
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "progressbar0.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ProgressBar0"
+          },
+          "name": "progressbar0.png",
+          "x": 196,
+          "y": 73
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "progressbar1.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ProgressBar1"
+          },
+          "name": "progressbar1.png",
+          "x": 196,
+          "y": 73
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "progressbar2.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ProgressBar2"
+          },
+          "name": "progressbar2.png",
+          "x": 196,
+          "y": 73
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "progressbar3.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ProgressBar3"
+          },
+          "name": "progressbar3.png",
+          "x": 196,
+          "y": 73
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "progressbar4.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ProgressBar4"
+          },
+          "name": "progressbar4.png",
+          "x": 196,
+          "y": 73
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "progressbar5.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ProgressBar5"
+          },
+          "name": "progressbar5.png",
+          "x": 196,
+          "y": 73
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "progressbar6.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "ProgressBar6"
+          },
+          "name": "progressbar6.png",
+          "x": 196,
+          "y": 73
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "progressbar7.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Progressbar7"
+          },
+          "name": "progressbar7.png",
+          "x": 196,
+          "y": 73
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "progressbar8.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Progressbar9"
+          },
+          "name": "progressbar8.png",
+          "x": 196,
+          "y": 73
+        }
+      }
+    ]
+  }
+}

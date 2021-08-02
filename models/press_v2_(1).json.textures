@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "bottom",
+        "1": "presssides",
+        "2": "presspanel",
+        "3": "panelsides",
+        "4": "pistontop",
+        "5": "pistonsides"
+      },
+      "name": "default"
+    }
+  }
+}

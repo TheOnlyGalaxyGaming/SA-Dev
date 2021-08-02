@@ -1,0 +1,19 @@
+{
+  "group": "sa",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "sa:knife"
+    },
+    "1": {
+      "item": "sa:blockof_cheese"
+    }
+  },
+  "result": {
+    "item": "sa:sliced_cheese",
+    "count": 4
+  }
+}

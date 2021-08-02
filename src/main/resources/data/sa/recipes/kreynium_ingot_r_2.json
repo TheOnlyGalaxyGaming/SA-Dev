@@ -1,0 +1,12 @@
+{
+  "group": "sa",
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 182,
+  "ingredient": {
+    "item": "sa:kreynium_ore"
+  },
+  "result": {
+    "item": "sa:polished_kreynium_ingot"
+  }
+}

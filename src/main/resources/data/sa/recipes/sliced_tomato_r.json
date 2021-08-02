@@ -1,0 +1,16 @@
+{
+  "group": "sa",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sa:knife"
+    },
+    {
+      "item": "sa:tomato"
+    }
+  ],
+  "result": {
+    "item": "sa:sliced_tomato",
+    "count": 3
+  }
+}

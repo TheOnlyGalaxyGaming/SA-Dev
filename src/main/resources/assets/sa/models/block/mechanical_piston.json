@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sa:blocks/iron_block",
+    "up": "sa:blocks/mechanicalpistontop",
+    "north": "sa:blocks/mechanicalpistonside",
+    "east": "sa:blocks/mechanicalpistonside",
+    "south": "sa:blocks/mechanicalpistonside",
+    "west": "sa:blocks/mechanicalpistonside",
+    "particle": "sa:blocks/iron_block"
+  }
+}

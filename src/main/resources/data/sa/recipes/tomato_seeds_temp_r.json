@@ -1,0 +1,16 @@
+{
+  "group": "sa",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sa:tomato"
+    },
+    {
+      "item": "minecraft:bone_meal"
+    }
+  ],
+  "result": {
+    "item": "sa:tomato_seeds",
+    "count": 2
+  }
+}

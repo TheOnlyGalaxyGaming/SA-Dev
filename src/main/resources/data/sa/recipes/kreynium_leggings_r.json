@@ -1,0 +1,19 @@
+{
+  "group": "sa",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:diamond_leggings"
+    },
+    "1": {
+      "item": "sa:polished_kreynium_ingot"
+    }
+  },
+  "result": {
+    "item": "sa:kreynium_armor_leggings",
+    "count": 1
+  }
+}

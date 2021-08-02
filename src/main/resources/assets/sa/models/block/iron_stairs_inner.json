@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "sa:blocks/iron_block",
+    "top": "sa:blocks/iron_block",
+    "side": "sa:blocks/iron_block"
+  }
+}

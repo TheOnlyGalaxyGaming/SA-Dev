@@ -1,0 +1,19 @@
+{
+  "group": "sa",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sa:hammer"
+    },
+    {
+      "item": "sa:molten_iron"
+    },
+    {
+      "item": "sa:molten_iron"
+    }
+  ],
+  "result": {
+    "item": "sa:iron_panel",
+    "count": 1
+  }
+}

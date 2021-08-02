@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sa:blocks/fluidtank",
+    "up": "sa:blocks/fluidtank",
+    "north": "sa:blocks/fluidtank",
+    "east": "sa:blocks/fluidtank",
+    "south": "sa:blocks/fluidtank",
+    "west": "sa:blocks/fluidtank",
+    "particle": "sa:blocks/fluidtank"
+  }
+}

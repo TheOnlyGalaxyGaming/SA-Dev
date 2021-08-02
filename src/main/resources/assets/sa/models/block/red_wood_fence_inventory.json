@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "rpg:blocks/redwood_planks",
+    "particle": "rpg:blocks/redwood_planks"
+  }
+}

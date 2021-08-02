@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sa:blocks/kreyniumore",
+    "up": "sa:blocks/kreyniumore",
+    "north": "sa:blocks/kreyniumore",
+    "east": "sa:blocks/kreyniumore",
+    "south": "sa:blocks/kreyniumore",
+    "west": "sa:blocks/kreyniumore",
+    "particle": "sa:blocks/kreyniumore"
+  }
+}

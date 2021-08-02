@@ -1,0 +1,10 @@
+{
+  "parent": "sa:custom/distilationchamber",
+  "textures": {
+    "all": "sa:blocks/top",
+    "particle": "sa:blocks/top",
+    "0": "sa:blocks/texture_2",
+    "1": "sa:blocks/texture_4",
+    "missing": "sa:blocks/texture_2"
+  }
+}

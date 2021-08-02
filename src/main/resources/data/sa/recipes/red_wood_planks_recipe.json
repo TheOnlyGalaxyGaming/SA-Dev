@@ -1,0 +1,13 @@
+{
+  "group": "rpg",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "rpg:red_wood_log"
+    }
+  ],
+  "result": {
+    "item": "rpg:red_wood_planks",
+    "count": 4
+  }
+}

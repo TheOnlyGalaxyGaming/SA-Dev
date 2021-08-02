@@ -1,0 +1,111 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Purification Chamber",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Purification Chamber",
+          "x": 129,
+          "y": 41
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #0",
+          "x": 201,
+          "y": 71
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 1,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #1",
+          "x": 224,
+          "y": 88
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 2,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #2",
+          "x": 254,
+          "y": 71
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bloodfilledsyringeoutline.png",
+          "use1Xscale": false,
+          "name": "bloodfilledsyringeoutline.png",
+          "x": 202,
+          "y": 72
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "idk2.png",
+          "use1Xscale": false,
+          "name": "idk2.png",
+          "x": 216,
+          "y": 71
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "saltoutline.png",
+          "use1Xscale": false,
+          "name": "saltoutline.png",
+          "x": 225,
+          "y": 89
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Purify",
+          "onClick": {
+            "name": "PurificationChamberP"
+          },
+          "width": 55,
+          "height": 20,
+          "name": "Purify",
+          "x": 138,
+          "y": 70
+        }
+      }
+    ]
+  }
+}

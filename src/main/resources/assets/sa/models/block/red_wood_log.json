@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "rpg:blocks/redwood_log_top",
+    "up": "rpg:blocks/redwood_log_top",
+    "north": "rpg:blocks/redwood_log_side",
+    "east": "rpg:blocks/redwood_log_side",
+    "south": "rpg:blocks/redwood_log_side",
+    "west": "rpg:blocks/redwood_log_side",
+    "particle": "rpg:blocks/redwood_log_top"
+  }
+}

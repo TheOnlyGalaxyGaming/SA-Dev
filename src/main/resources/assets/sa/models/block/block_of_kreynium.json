@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sa:blocks/pixil-frame-0_1",
+    "up": "sa:blocks/pixil-frame-0_1",
+    "north": "sa:blocks/pixil-frame-0_1",
+    "east": "sa:blocks/pixil-frame-0_1",
+    "south": "sa:blocks/pixil-frame-0_1",
+    "west": "sa:blocks/pixil-frame-0_1",
+    "particle": "sa:blocks/pixil-frame-0_1"
+  }
+}

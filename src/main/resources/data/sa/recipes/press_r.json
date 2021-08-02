@@ -1,0 +1,42 @@
+{
+  "group": "sa",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sa:iron_casing"
+    },
+    "1": {
+      "item": "sa:mechanical_piston"
+    },
+    "2": {
+      "item": "sa:iron_casing"
+    },
+    "3": {
+      "item": "sa:iron_gear"
+    },
+    "4": {
+      "item": "sa:iron_panel"
+    },
+    "5": {
+      "item": "sa:iron_gear"
+    },
+    "6": {
+      "item": "sa:iron_casing"
+    },
+    "7": {
+      "item": "sa:iron_casing"
+    },
+    "8": {
+      "item": "sa:iron_casing"
+    }
+  },
+  "result": {
+    "item": "sa:press",
+    "count": 1
+  }
+}

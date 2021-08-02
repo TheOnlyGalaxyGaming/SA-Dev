@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "rpg:blocks/redwood_log_side",
+    "particle": "rpg:blocks/redwood_log_side"
+  }
+}

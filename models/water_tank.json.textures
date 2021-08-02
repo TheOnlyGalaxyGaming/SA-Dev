@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "sides",
+        "1": "top",
+        "3": "marks",
+        "missing": "guage"
+      },
+      "name": "default"
+    }
+  }
+}

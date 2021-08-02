@@ -1,0 +1,13 @@
+{
+  "parent": "sa:custom/press_v2_(1)",
+  "textures": {
+    "all": "sa:blocks/ironcasing",
+    "particle": "sa:blocks/ironcasing",
+    "0": "sa:blocks/bottom",
+    "1": "sa:blocks/presssides",
+    "2": "sa:blocks/presspanel",
+    "3": "sa:blocks/panelsides",
+    "4": "sa:blocks/pistontop",
+    "5": "sa:blocks/pistonsides"
+  }
+}

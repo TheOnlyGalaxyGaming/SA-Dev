@@ -1,0 +1,13 @@
+{
+  "group": "sa",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:writable_book"
+    }
+  ],
+  "result": {
+    "item": "sa:press_recipe_book",
+    "count": 1
+  }
+}

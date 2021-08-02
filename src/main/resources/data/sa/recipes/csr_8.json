@@ -1,0 +1,28 @@
+{
+  "group": "sa",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sa:sliced_bread"
+    },
+    {
+      "item": "sa:sliced_cheese"
+    },
+    {
+      "item": "sa:sliced_tomato"
+    },
+    {
+      "item": "sa:sliced_bread"
+    },
+    {
+      "item": "minecraft:cooked_chicken"
+    },
+    {
+      "item": "sa:lettuce"
+    }
+  ],
+  "result": {
+    "item": "sa:chicken_sandwich_8",
+    "count": 1
+  }
+}

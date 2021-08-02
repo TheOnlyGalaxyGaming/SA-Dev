@@ -1,0 +1,11 @@
+{
+  "parent": "sa:custom/water_tank",
+  "textures": {
+    "all": "sa:blocks/ironcasing",
+    "particle": "sa:blocks/ironcasing",
+    "0": "sa:blocks/sides",
+    "1": "sa:blocks/top",
+    "3": "sa:blocks/marks",
+    "missing": "sa:blocks/guage"
+  }
+}

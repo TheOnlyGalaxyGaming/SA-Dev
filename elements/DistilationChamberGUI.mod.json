@@ -1,0 +1,122 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Distilation Chamber",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Distilation Chamber",
+          "x": 130,
+          "y": 41
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #0",
+          "x": 195,
+          "y": 53
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 1,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #1",
+          "x": 168,
+          "y": 80
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 2,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #2",
+          "x": 240,
+          "y": 71
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "stymoutline1.png",
+          "use1Xscale": false,
+          "name": "stymoutline1.png",
+          "x": 169,
+          "y": 81
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bloodfilledsyringeoutline.png",
+          "use1Xscale": false,
+          "name": "bloodfilledsyringeoutline.png",
+          "x": 196,
+          "y": 54
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "idk.png",
+          "use1Xscale": false,
+          "name": "idk.png",
+          "x": 202,
+          "y": 71
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 3,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #3",
+          "x": 259,
+          "y": 71
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Distill",
+          "onClick": {
+            "name": "DistilationChamberP"
+          },
+          "width": 60,
+          "height": 20,
+          "name": "Distill",
+          "x": 228,
+          "y": 50
+        }
+      }
+    ]
+  }
+}

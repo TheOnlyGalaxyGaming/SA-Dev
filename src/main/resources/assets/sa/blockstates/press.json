@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sa:block/press"
+    },
+    "facing=east": {
+      "model": "sa:block/press",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sa:block/press",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sa:block/press",
+      "y": 270
+    }
+  }
+}

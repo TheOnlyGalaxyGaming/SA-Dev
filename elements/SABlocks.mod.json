@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "SA Blocks",
+    "icon": {
+      "value": "CUSTOM:KreyniumOre"
+    },
+    "showSearch": false
+  }
+}
